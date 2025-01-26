@@ -1,4 +1,5 @@
-# Hello, I'm Mohammed Arshad Mansuri 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=ffffff&width=435&lines=Hey+there!+I+am+Mohammed+Arshad+Mansuri.;A+Full+Stack+Developer+and+Designer.)](https://git.io/typing-svg)
+<br>
 
 I'm a **Full-Stack Developer** and **CSE student** at IIITDM Kurnool, passionate about building web applications and solving problems. I'm constantly learning and exploring new technologies to improve my skills and contribute to impactful projects.
 
