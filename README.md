@@ -16,6 +16,7 @@ I specialize in the **MERN stack** (MongoDB, Express, React, Node.js) and have e
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=armansuri300105&show_icons=true&hide_title=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armansuri300105&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📌 Projects
 
