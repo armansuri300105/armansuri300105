@@ -24,7 +24,7 @@ A web-based application for tracking competitive programming contest performance
 
 ## 🤝 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mohammed-arshad-mansuri-4449a02b6/))
+- [LinkedIn](https://www.linkedin.com/in/mohammed-arshad-mansuri-4449a02b6/)
 - [Email](mailto:arshadmansuri572@example.com)
 
 Feel free to reach out for any collaboration or open-source contribution. Happy coding! ✨
