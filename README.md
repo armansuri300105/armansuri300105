@@ -20,8 +20,8 @@ I specialize in the **MERN stack** (MongoDB, Express, React, Node.js) and have e
 
 ## 📌 Projects
 
-### [CPTracker](https://github.com/armansuri300105/cptracker)
-A web-based application for tracking competitive programming contest performance across platforms like **CodeChef**, **LeetCode**, and **CodeForces**.
+### [Apnabazaar](https://github.com/armansuri300105/Apnabazaar)
+A full Functional Product ready Ecommerce website for local goods with Advanced Recommendation system
 
 
 ## 🤝 Let's Connect
